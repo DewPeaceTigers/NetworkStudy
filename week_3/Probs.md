@@ -55,3 +55,4 @@
 4. IP fragmentation에 의해 사용되는 Packet의 Header fields는? (설명 포함)
 
     16-bit identifier, flags, offset
+    id가 동일하고 flag가 1이면 뒤에 이어지는 패킷이 존재하고 offset은 시작하는 위치
